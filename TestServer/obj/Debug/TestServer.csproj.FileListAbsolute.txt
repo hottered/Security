@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\aleks\source\repos\TestServer\bin\Debug\TestServer.exe
+C:\Users\aleks\source\repos\TestServer\bin\Debug\TestServer.pdb
+C:\Users\aleks\source\repos\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\TestServer\obj\Debug\TestServer.exe
+C:\Users\aleks\source\repos\TestServer\obj\Debug\TestServer.pdb
+C:\Users\aleks\source\repos\TestServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleks\source\repos\TestServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleks\source\repos\TestServer\obj\Debug\TestServer.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\TestServer\obj\Debug\TestServer.csproj.CopyComplete
